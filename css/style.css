@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: "PF BeauSans Pro";
+  src: url("../fonts/beausan/PFBeauSansPro-Bold.eot");
+  src: local("PFBeauSansPro-Bold"), url("../fonts/beausan/PFBeauSansPro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/beausan/PFBeauSansPro-Bold.woff") format("woff"), url("../fonts/beausan/PFBeauSansPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PF BeauSans Pro";
+  src: url("../fonts/beausan/PFBeauSansPro-SemiBoldItalic.eot");
+  src: local("PFBeauSansPro-SemiBoldItalic"), url("../fonts/beausan/PFBeauSansPro-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/beausan/PFBeauSansPro-SemiBoldItalic.woff") format("woff"), url("../fonts/beausan/PFBeauSansPro-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "PF BeauSans Pro";
+  src: url("../fonts/beausan/PFBeauSansPro-SemiBold.eot");
+  src: local("PFBeauSansPro-SemiBold"), url("../fonts/beausan/PFBeauSansPro-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/beausan/PFBeauSansPro-SemiBold.woff") format("woff"), url("../fonts/beausan/PFBeauSansPro-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PF BeauSans Pro";
+  src: url("../fonts/beausan/PFBeauSansPro-Regular.eot");
+  src: local("PFBeauSansPro-Regular"), url("../fonts/beausan/PFBeauSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/beausan/PFBeauSansPro-Regular.woff") format("woff"), url("../fonts/beausan/PFBeauSansPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PF BeauSans Pro";
+  src: url("../fonts/beausan/PFBeauSansPro-BoldItalic.eot");
+  src: local("PFBeauSansPro-BoldItalic"), url("../fonts/beausan/PFBeauSansPro-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/beausan/PFBeauSansPro-BoldItalic.woff") format("woff"), url("../fonts/beausan/PFBeauSansPro-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+.pt-100 {
+  padding-top: 100px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.pt-90 {
+  padding-top: 90px;
+}
+
+.pb-90 {
+  padding-bottom: 90px;
+}
+
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pb-80 {
+  padding-bottom: 80px;
+}
+
+.pt-70 {
+  padding-top: 70px;
+}
+
+.pb-70 {
+  padding-bottom: 70px;
+}
+
+.pt-60 {
+  padding-top: 60px;
+}
+
+.pb-60 {
+  padding-bottom: 60px;
+}
+
+.pt-50 {
+  padding-top: 50px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+
+.pt-30 {
+  padding-top: 30px;
+}
+
+.pb-30 {
+  padding-bottom: 30px;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.pb-20 {
+  padding-bottom: 20px;
+}
+
+.pt-10 {
+  padding-top: 10px;
+}
+
+.pb-10 {
+  padding-bottom: 10px;
+}
+
+body {
+  box-sizing: border-box;
+  color: #000000;
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 1.6;
+  transition: 0.3s all;
+  position: relative;
+  font-weight: normal;
+  font-family: "PF BeauSans Pro";
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body p, body label, body ul, body li, body .card, body a {
+  text-decoration: none !important;
+  transition: 0.3s all;
+  margin-bottom: 0;
+  outline: none !important;
+}
+body a {
+  transition: 0.3s all !important;
+  color: #000000;
+}
+body ul {
+  padding: 0;
+  margin: 0;
+}
+body input, body button {
+  outline: none !important;
+  box-shadow: none;
+  transition: 0.3s all;
+}
+body .slick-slide {
+  height: auto;
+}
+body .slick-slide img {
+  display: inline;
+}
+body .container {
+  width: 100%;
+  max-width: 1225px;
+}
+body img {
+  max-width: 100%;
+}
+
+.slick-slider {
+  margin-bottom: 0;
+}
+
+.avarta {
+  overflow: hidden;
+}
+.avarta img {
+  transition: 0.7s all;
+}
+.avarta img:hover {
+  transition: 0.7s all;
+}
+
+/*# sourceMappingURL=style.css.map */
