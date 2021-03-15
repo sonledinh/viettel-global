@@ -62,3 +62,7 @@
             </div>
         </div>
     </header> 
+
+    <style type="text/css">
+        header {display: none;}
+    </style>
