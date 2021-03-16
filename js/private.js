@@ -7,20 +7,6 @@ $('.slide-banner').slick({
     slidesToScroll: 1, 
     prevArrow: '',
     nextArrow: '',
-    responsive: [
-        {
-            breakpoint: 767, 
-            settings: {
-                slidesToShow: 2,
-            } 
-        },
-        {
-            breakpoint: 480,
-            settings: {
-                slidesToShow: 1,
-            }
-        }
-    ]
 }); 
 
 $('.slide-respon').slick({
@@ -86,6 +72,11 @@ $('ul.tabs li').click(function(){
     $(this).addClass('active');
     $("#"+tab_id).addClass('active');
 })
+
+// $('.counter').counterUp({
+//   delay: 10,
+//   time: 2000
+// });
 
  
 // jQuery(document).ready(function( $ ) {

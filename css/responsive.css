@@ -1,424 +1,332 @@
 @media (max-width: 767px) {
-    .caption-banner {
-        min-height: 100vh;
-        text-align: center;
-    }
-
-    .caption-banner .avarta img {
-        max-height: 180px;
-    }
-
-    .caption-banner .avarta {
-        margin-bottom: 30px;
-    }
-
-    body {
-        font-size: 15px;
-    }
-
-    .caption-banner h3 {
-        font-size: 18px;
-    }
-
-    .caption-banner h1 {
-        font-size: 30px;
-    }
-
-    .caption-banner .desc {
-        font-size: 16px;
-    }
-
-    .b-link a {
-        font-size: 16px;
-    }
-
-    .commitment {
-        padding: 40px 0;
-    }
-
-    .title-comm h2 {
-        font-size: 22px;
-        margin-bottom: 25px;
-    }
-
-    .item-comm .avarta {
-        top: -15px;
-    }
-
-    .list-comm .col-md-3 {
-        margin-bottom: 30px;
-    }
-    .list-comm .col-md-3:last-child {
-        margin-bottom: 0;
-    }
-    .item-comm h3 {
-        font-size: 22px;
-    }
-    .box-about {
-        background: url('../images/box-about.png');
-        background-size: cover;
-        padding: 0;
-    }
-
-    .box-about .avarta {
+    header { display: none; }
+    .right-banner {
         display: none;
     }
-    .caption-about {
-        position: unset;
-        padding: 50px 0;
-        background: #00000073;
-    }
-    .caption-about h2 {
-        font-size: 30px;
-    }
-    .box-product .title h2 {
-        font-size: 20px;
-    }
 
-    .box-product .title h2 img {
-        margin-right: 5px;
-        width: 25px;
-    }
-
-    .slick-arrow.next {
-        right: 10px;
-    }
-
-    .slick-arrow {
-        left: 10px;
-        background: #fff;
-        z-index: 2;
-    }
-    .item-prd .avarta img {
+    .box-banner .slick-dots {
+        right: 0;
         width: 100%;
-    }
-    .box-product {
-        padding: 30px 0;
-    }
-    .box-new-home {
-        padding: 30px 0;
-    }
-    .story {
-        background: url('../images/story.png');
-        background-size: cover;
+        bottom: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
-    .story .avarta {
-        display: none;
-    }
-    .caption-story {
-        position: unset;
-        padding: 50px 0;
+    .box-banner .slick-dots li {margin-top: 0  !important;}
+
+    .txt-about {
+        width: 100%;
+        padding: 20px 15px;
     }
 
-    .caption-story h3 {
-        font-size: 30px;
-    }
-
-    .caption-story p {
-        padding: 20px 0;
-    }
-
-    .btn-story a {
-        height: 45px;
-    }
-    .box-number {
-        padding: 40px 0;
-    }
-
-    .ab-detail {
-        padding: 40px 0 0 0;
-    }
-    .list-cart table {
-        width: 800px;
-    }
-
-    .scroll-mob {
-        overflow: auto;
-        margin-bottom: 20px;
-    }
-
-    #cart {
-        padding: 40px 0;
-    }
-    .bread-contact h1 {
+    .title h2 {
         font-size: 25px;
     }
 
-    .bread-contact {
-        padding: 40px 0;
+    .title {
+        margin-bottom: 15px;
     }
 
-    .bread-contact p {
+    .txt-about h1 {
+        font-size: 16px;
+    }
+
+    body {
         font-size: 14px;
     }
+
+    .txt-about .btn-about {
+        margin-top: 20px;
+    }
+
+    .btn-global {
+        height: 40px;
+        font-size: 15px;
+    }
+
+    .box-about .col-md-8 {
+        display: none;
+    }
+
+    .box-worth .left .avarta img {
+        max-width: 100%;
+    }
+
+    .box-worth .left .avarta .item {
+        padding-right: 20%;
+    }
+
+    .box-worth .left .avarta .item.item-abs {
+        padding-right: 0;
+        left: unset;
+        right: 15px;
+        max-width: 65%;
+    }
+
+    .box-worth .left .avarta {
+        padding-bottom: 30px;
+    }
+
+    .txt-worth {
+        padding-top: 30px;
+    }
+
+    .list-worth {
+        padding-top: 15px;
+    }
+
+    .list-worth .item h3 {
+        font-size: 16px;
+    }
+
+    .list-worth .item {
+    }
+
+    .list-number {
+        justify-content: center;
+    }
+
+    .list-number .item {
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 35px;
+    }
+
+    .list-number .txt-num {
+        margin-top: 8px;
+    }
+
+    .list-number .txt-num span {
+        font-size: 25px;
+    }
+
+    .list-number .cir-numb {
+        width: 120px;
+        height: 120px;
+        font-size: 12px;
+    }
+
+    .list-number .cir-numb .icon img {
+        max-height: 45px;
+    }
+
+    .list-number .img-top img {
+        max-height: 60px;
+    }
+
+    .list-number .img-top {
+        margin-bottom: -20px;
+    }
+
+    .list-number .item:last-child {
+        margin-bottom: 0;
+    }
+
+    .maps-viettel {
+        margin-top: 20px;
+    }
+
+    .date .num-date {
+        font-size: 20px;
+    }
+
+    .date {
+        font-size: 10px;
+        height: 60px;
+        margin-right: 10px;
+        width: 60px;
+    }
+
     .new-big .desc {
         display: none;
     }
 
-    .new-big .info-news {
-        padding: 10px;
-    }
-
-    .new-big h1 a {
+    .new-big .info a {
+        margin-bottom: 0;
         font-size: 16px;
-        line-height: 1.5;
     }
 
-    .new-big .info-news ul {
-        padding-bottom: 0;
+    .new-big .info-abs {
+        padding: 0 15px 15px 15px;
     }
 
-    .list-news .col-md-4, .list-news .col-md-8 {
-        margin-top: 15px;
+    .item-new-small .desc {
+        display: none;
     }
 
-    #news {
-        padding: 30px 0;
+    .item-new-small .info a {
+        margin-bottom: 0;
+        font-size: 15px;
     }
 
-    .new-small {
-        display: flex;
+    .item-new-small .avarta .date {
+        right: 0;
+        top: 10px;
     }
 
-    .new-small .avarta {
+    .item-new-small .avarta {
+        margin-right: 15px;
         flex: 0 0 40%;
     }
 
-    .info-news .desc {
-        display: none;
+    .new-big {
+        margin-bottom: 15px;
     }
 
-    .date-new {
-        display: none;
+    .item-new-small {
+        margin-bottom: 15px;
     }
 
-    .new-small h3 a {
-        font-size: 15px;
-    }
-
-    .info-news ul {
-        padding-bottom: 0;
-    }
-    .pagination-new {
-        padding-top: 20px;
-    }
-    .side-bar-prd {
-        display: none;
-    }
-
-    .other-news {
-        padding: 20px 0;
-    }
-
-    .item-other {
+    .list-gall .col-md-3 {
         display: flex;
     }
 
-    .item-other .avarta {
-        flex: 0 0 42%;
-        margin-right: 5px;
+    .list-gall .col-md-3.item-gall {
+        flex: 0 0 50%;
+        padding: 0 10px;
+        box-sizing: border-box;
     }
 
-    .item-other .info a {
-        font-size: 15px;
+    .list-gall .col-md-3 .item-gall {
+        flex: 0 0 50%;
+        padding: 0 7px;
+        box-sizing: border-box;
     }
 
-    .item-other .info {
-        padding: 10px;
+    .list-gall .row .col-md-6, .list-gall .row .col-md-3 {
+        padding: 0 10px;
     }
 
-    .list-other .col-md-3 {
-        margin-bottom: 15px;
-    }
-    .breadcrumbs {
-        padding: 30px 0;
+    .list-gall .item-gall {
+        margin-bottom: 0;
     }
 
-    .info-bread .avarta img {
-        max-height: 150px;
+    .list-gall .row .col-md-6 {
+        padding: 15px;
     }
 
-    .info-bread {
-        text-align: center;
-    }
-
-    .info-bread .avarta {
-        margin-bottom: 15px;
-    }
-
-    .info-bread h4 {
-        text-align: center;
-        font-size: 18px;
-        margin-bottom: 15px;
-    }
-
-    .info-bread h2 {
-        text-align: center;
-        font-size: 30px;
-    }
-
-    .pb-60 {
-        padding-bottom: 30px;
-    }
-
-    .pt-60 {
-        padding-top: 30px;
-    }
-
-    .slide-thumb {
-        margin-bottom: 15px;
-    }
-
-    .quantity-numb ul {
-        display: flex;
-    }
-
-    .quantity input {
-        width: 48px;
-    }
-    .pagination a {
-        width: 30px;
-        height: 30px;
-    }
-    .header-menu {
-        display: none;
-    }
-    .menu-mobile {
-        display: block !important;
-        box-shadow: 0px 4px 10px rgb(0 0 0 / 10%);
-    }
-    .menu-mobile .logo img {
-        max-width: 120px;
-    }
-
-    .btn-menu {
-        text-align: right;
-    }
-
-    .btn-menu a {
-        font-size: 24px;
-        color: #eb1c24;
-    }
-    nav#menu {
-        z-index: 1001;
+    .sub-maps {
         display: none;
     }
 
-    nav#menu.mm-menu_opened {
+    .list-document {
         display: block;
     }
-    .list-meet .item-pr-4 .info a {
-        font-size: 18px;
-    }
-    .info-footer .col-md-3, .info-footer .col-md-2 {
-        margin-bottom: 30px;
+
+    .list-document .right {
+        width: 100%;
     }
 
-    .title-ft {
+    .list-document .left ul {
+        padding: 15px;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        padding-right: 30px;
+        width: auto;
+    }
+
+    .list-document .left {
+        margin-right: 0;
+        overflow: auto;
+        background: #ea0a2a;
+        position: relative;
+        left: -15px;
+        width: calc(100% + 30px);
+        padding-right: 30px;
+        margin-bottom: 15px;
+    }
+
+    .list-document .left ul li {
+        margin-bottom: 0;
+        margin-right: 35px;
+    }
+
+    .list-document .left a.active {
+        font-size: 22px;
+    }
+
+    .item-docs {
+        margin-bottom: 15px;
+        padding-bottom: 0;
+        display: block;
+    }
+
+    .btn-docs {
+        padding: 10px 0;
+    }
+
+    .list-invest .col-md-6 {
+        margin-bottom: 15px;
+    }
+
+    .list-invest .col-md-6:last-child {
+        margin-bottom: 0;
+    }
+
+    .item-invest .info {
+        padding: 15px;
+    }
+
+    .item-invest .info a {
+        font-size: 22px;
+        display: block;
+        text-align: center;
+    }
+
+    .info-prize .avarta {
+        margin-bottom: 20px;
+    }
+
+    .info-prize .info {
+        padding-left: 0;
+    }
+
+    .info-prize .col-md-6.pr-0 {
+        padding-right: 15px !important;
+    }
+
+    .info-prize .sapo {
+        font-size: 18px;
+    }
+
+    .info-prize .sapo img {
+        top: 6px;
+    }
+
+    .info-prize .desc {
+        font-size: 16px;
+    }
+
+    .info-prize .desc p {
         margin-bottom: 10px;
     }
-}
 
-@media (max-width: 767px) and (min-width: 576px) {
-    .caption-banner {
-        height: auto;
-        padding: 40px 0;
-    }
-}
-
-@media (max-width: 1023px) and (min-width: 768px) {
-    .caption-banner h1 {
-        font-size: 45px;
+    .item-media {
+        display: flex;
     }
 
-    .list-comm .col-md-3 {
-        flex: 0 0 50%;
-        max-width: 50%;
-        margin-bottom: 50px;
+    .item-media .avarta {
+        margin-bottom: 0;
+        border-radius: 5px;
+        margin-right: 10px;
+        flex: 0 0 45%;
     }
 
-    section.box-about .avarta img {
-        min-height: 100vh;
-        object-fit: cover;
+    .date-time {
+        font-size: 14px;
     }
 
-    .item-slide {
-        padding: 0 5px;
-    }
-
-    .slide-new-home {
-        margin: 0 -5px;
-    }
-
-    .item-new h3 a {
+    .item-media .info a {
         font-size: 16px;
     }
-    .story .avarta img {
-        min-height: 70vh;
-        object-fit: cover;
-    }
-    .box-number .col-md-6:last-child {
-        max-width: 100%;
-        flex: 0 0 100%;
-    }
-    .list-cart table {
-        width: 800px;
+
+    .list-media .col-md-4 {
+        margin-bottom: 15px;
     }
 
-    .scroll-mob {
-        overflow: auto;
-    }
-    .addto-cart a {
-        font-size: 13px;
-    }
-    .new-big h1 a {
-        font-size: 20px;
-    }
-
-    .new-small h3 a {
-        font-size: 16px;
-    }
-    .bread-contact h1 {
-        font-size: 30px;
-    }
-    .slick-arrow.next {
-        right: 10px;
-    }
-
-    .slick-arrow {
-        left: 10px;
-        background: #fff;
-        z-index: 2;
-    }
-
-    .info-bread h2 {
-        font-size: 40px;
-    }
-
-    .quantity input {
-        width: 40px;
-    }
-
-    .item-prd .info h3 a {
-        font-size: 18px;
-    }
-
-    .item-prd .desc {
-        font-size: 12px;
-    }
-
-    .btn-buy {
-        display: none;
-    }
-    .content-menu a {
-        font-size: 15px;
-    }
-
-    .content-menu ul li {
-        padding: 0 12px;
-    }
-    .logo img {
-        max-width: 150px;
+    .gallery .pagination {
+        padding-top: 20px;
     }
 }

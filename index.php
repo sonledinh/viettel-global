@@ -28,6 +28,9 @@
 		 					<div class="desc">
 		 						Năm 2006, Viettel quyết định mở rộng kinh doanh ra nước ngoài với mục tiêu tìm kiếm thị trường tiềm năng. Công ty Cổ phần Đầu tư quốc tế Viettel (nay là Tổng Công ty Đầu tư quốc tế Viettel) được thành lập tháng 10 năm 2006 với tầm nhìn và sứ mệnh đưa Viettel trở thành tập đoàn viễn thông lớn mạnh tầm quốc tế.
 		 					</div>
+		 					<div class="btn-about">
+		 						<a href="" class="btn-global">Xem thêm</a>
+		 					</div>
 		 				</div>
 			 		</div>
 			 	</div>
@@ -90,7 +93,7 @@
 							<div class="inf">Thị trường</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>10</span> Thị trường</div>
+					<div class="txt-num"><span class="counter">10</span> Thị trường</div>
 				</div>
 				<div class="item">
 					<div class="img-top"><img src="images/numb-2.png" class="img-fluid" alt=""></div>
@@ -100,7 +103,7 @@
 							<div class="inf">Quy mô <br>thị trường </div>
 						</div>
 					</div>
-					<div class="txt-num"><span>270</span> Triệu dân</div>
+					<div class="txt-num"><span class="counter">270</span> Triệu dân</div>
 				</div>
 				<div class="item">
 					<div class="img-top"><img src="images/numb-3.png" class="img-fluid" alt=""></div>
@@ -110,17 +113,17 @@
 							<div class="inf">Trạm BTS</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>5000</span><span>+</span></div>
+					<div class="txt-num"><span class="counter">5000</span><span>+</span></div>
 				</div>
 				<div class="item">
 					<div class="img-top"><img src="images/numb-4.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
 							<div class="icon"><img src="images/i-num-4.png" class="img-fluid" alt=""></div>
-							<div class="inf">Km cáp quang</div>
+							<div class="inf">Km cáp quang</div> 
 						</div>
 					</div>
-					<div class="txt-num"><span>320.000</span></div>
+					<div class="txt-num"><span class="counter">320.000</span></div>
 				</div>
 				<div class="item">
 					<div class="img-top"><img src="images/numb-5.png" class="img-fluid" alt=""></div>
@@ -130,7 +133,7 @@
 							<div class="inf">Thuê bao</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>6</span><span>M+</span></div>
+					<div class="txt-num"><span class="counter">6</span><span>M+</span></div>
 				</div>
 			</div>
 		</div>
@@ -144,13 +147,155 @@
 	</section>
 	<section class="box-maps">
 		<div class="container">
-			<div class="title"><h2>Viettel trên Thế Giới</h2></div>
+			<div class="title text-center"><h2>Viettel trên Thế Giới</h2></div>
 			<div class="maps-viettel">
-				<img src="images/maps.png" class="img-fluid w-100" alt="">
+				<img src="images/map-worth.svg" class="img-fluid w-100" alt="">
+				<div class="list-maps">
+					<div class="item-maps map-1">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-2.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-2">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-2.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-3">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-1.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-4">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-1.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-5">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-2.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-6">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-2.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-7">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-1.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-8">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-1.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-9">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-3.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item-maps map-10">
+						<div class="dot-circle">
+							<div class="i-dot"><img src="images/cir-3.svg" class="img-fluid" alt=""></div>
+							<div class="sub-maps">
+								<div class="logo-maps text-center"><img src="images/logo-map.jpg" class="img-fluid" alt=""></div>
+								<div class="desc">
+									<p>Tên công ty: Viettel Timor Leste Unipessoal, Lda</p>
+									<p>Khai trương: Tháng 3, 2013</p>
+									<p>Telemor có hơn 420.000 thuê bao, chiếm khoảng 45% thị phần. </p>
+									<p>Mạng lưới cáp quang phủ sóng đến 96% đất nước.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
-	<section class="box-history pt-100 pb-100">
+	<!-- <section class="box-history pt-100 pb-100">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-4">
@@ -201,7 +346,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<section class="box-new-home pt-40 pb-100">
 		<div class="container">
 			<div class="title text-center"><h2>Tin tức nổi bật</h2></div>

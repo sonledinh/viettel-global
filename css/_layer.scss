@@ -1,1 +1,119 @@
 
+.header-menu {
+	.row {
+		align-items: flex-end;
+	}
+	ul {
+		list-style: none;
+	    display: flex;
+	    width: 100%;
+	    justify-content: flex-end;
+	    font-size: 18px;
+	    a {
+	    	position: relative;
+	    	font-weight: 600;
+	    	&:after {
+	    		content: "";
+	    		transition: .4s all;
+	    		left: 0;
+	    		bottom: -4px;
+	    		background: #EA0A2A;
+	    		width: 0px; 
+	    		height: 4px;
+	    		position: absolute;
+	    	}
+	    	&:hover {
+	    		&:after {
+	    			transition: .4s all;
+	    			width: 100%;
+	    		}
+	    	}
+	    }
+	    li {
+	    	margin-left: 55px;
+	    	position: relative;
+	    	&:first-child {
+	    		margin-left: 0;
+	    	}
+	    	&:hover {
+	    		ul {
+	    			transition: .4s all;
+	    			pointer-events: unset;
+	    			top: 30px;
+	    			left: 0;
+	    			opacity: 1;
+	    			visibility: visible;
+	    		}
+	    		a:after {
+	    			transition: .4s all;
+	    			width: 100%;
+	    		}
+	    	}
+	    }
+	    ul {
+	    	display: block;
+		    position: absolute;
+		    background: #fff;
+		    z-index: 10;
+		    box-shadow: 0px 0px 10px #ea0a2a26;
+		    width: 200px;
+		    top: 60px;
+		    left: 50px; 
+		    padding: 10px 0;
+		    transition: .4s all;
+		    pointer-events: none;
+		    opacity: 0;
+		    visibility: hidden;
+		    li {
+		    	margin: 0;
+		    }
+		    a {
+		    	display: flex;
+		    	font-weight: 400;
+    			padding: 2px 24px;
+    			&:after {
+    				display: none;
+    			}
+    			&:hover {
+    				background: #EA0A2A;
+    				color: #fff;
+    			}
+		    } 
+	    }
+	}
+}
+
+header {
+	margin-bottom: 24px;
+}
+
+.box-search {
+	position: relative;
+	input {
+		width: 160px;
+	    height: 32px;
+	    border: 1px solid #000000;
+	    border-radius: 30px;
+	    font-size: 14px;
+	    padding: 0 15px;
+	}
+	button {
+		color: #E0E1E0;
+	    border: 0;
+	    background: transparent;
+	    cursor: pointer;
+	    position: absolute;
+	    right: 10px;
+	    top: 4px;
+	    font-size: 14px;
+	    &:hover {
+	    	color: $red;
+	    }
+	}
+}
+
+.header-top {
+	position: relative;
+	top: 20px;
+}
+

@@ -19,12 +19,12 @@
 </head>
 <body>  
     <header>
-        <div class="header-top">
+        <div class="header-top text-right">
             <div class="container">
                 <ul class="list-inline">
-                    <li class="list-inline-item">
+                    <!-- <li class="list-inline-item">
                         <div class="translate">123</div>
-                    </li>
+                    </li> -->
                     <li class="list-inline-item">
                         <div class="box-search">
                             <input type="text">
@@ -44,7 +44,7 @@
                         <div class="col-md-8">
                             <ul>
                                 <li><a href="index.php">Trang chủ</a></li>
-                                <li><a href="">Về Viettel Global</a></li>
+                                <li><a href="about.php">Về Viettel Global</a></li>
                                 <li>
                                     <a href="">Nhà đầu tư</a>
                                     <ul>
@@ -53,8 +53,8 @@
                                         <li><a href="">Thông tin cổ phiếu</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="">Tin tức</a></li>
-                                <li><a href="">Tuyển dụng</a></li>
+                                <li><a href="news.php">Tin tức</a></li>
+                                <li><a href="recruitment.php">Tuyển dụng</a></li>
                             </ul> 
                         </div>
                     </div>
@@ -62,7 +62,3 @@
             </div>
         </div>
     </header> 
-
-    <style type="text/css">
-        header {display: none;}
-    </style>
