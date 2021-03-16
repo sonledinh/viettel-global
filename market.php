@@ -82,7 +82,7 @@
 	<section class="box-number pt-100 pb-100">
 		<div class="container">
 			<div class="list-number text-center">
-				<div class="item">
+				<div class="item wow fadeInUp wHighlight" data-wow-delay=".25s">
 					<div class="img-top"><img src="images/numb-1.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
@@ -90,9 +90,9 @@
 							<div class="inf">Thị trường</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>10</span> Thị trường</div>
+					<div class="txt-num"><span class="counter">10</span> Thị trường</div>
 				</div>
-				<div class="item">
+				<div class="item wow fadeInUp wHighlight" data-wow-delay=".35s">
 					<div class="img-top"><img src="images/numb-2.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
@@ -100,9 +100,9 @@
 							<div class="inf">Quy mô <br>thị trường </div>
 						</div>
 					</div>
-					<div class="txt-num"><span>270</span> Triệu dân</div>
+					<div class="txt-num"><span class="counter">270</span> Triệu dân</div>
 				</div>
-				<div class="item">
+				<div class="item wow fadeInUp wHighlight" data-wow-delay=".45s">
 					<div class="img-top"><img src="images/numb-3.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
@@ -110,19 +110,19 @@
 							<div class="inf">Trạm BTS</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>5000</span><span>+</span></div>
+					<div class="txt-num"><span class="counter">5000</span><span>+</span></div>
 				</div>
-				<div class="item">
+				<div class="item wow fadeInUp wHighlight" data-wow-delay=".55s">
 					<div class="img-top"><img src="images/numb-4.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
 							<div class="icon"><img src="images/i-num-4.png" class="img-fluid" alt=""></div>
-							<div class="inf">Km cáp quang</div>
+							<div class="inf">Km cáp quang</div> 
 						</div>
 					</div>
-					<div class="txt-num"><span>320.000</span></div>
+					<div class="txt-num"><span class="counter">320.000</span></div>
 				</div>
-				<div class="item">
+				<div class="item wow fadeInUp wHighlight" data-wow-delay=".65s">
 					<div class="img-top"><img src="images/numb-5.png" class="img-fluid" alt=""></div>
 					<div class="cir-numb">
 						<div class="inf-cir">
@@ -130,7 +130,7 @@
 							<div class="inf">Thuê bao</div>
 						</div>
 					</div>
-					<div class="txt-num"><span>6</span><span>M+</span></div>
+					<div class="txt-num"><span class="counter">6</span><span>M+</span></div>
 				</div>
 			</div>
 		</div>
@@ -139,14 +139,14 @@
 		<div class="container">
 			<div class="info-prize">
 				<div class="row align-items-center">
-					<div class="col-md-6 pr-0">
+					<div class="col-md-6 col-sm-6 pr-0 wow fadeInLeft wHighlight" data-wow-delay=".25s">
 						<div class="avarta"><img src="images/prize.jpg" class="img-fluid w-100" alt=""></div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 col-sm-6"> 
 						<div class="info">
-							<div class="title"><h2>Giải thưởng</h2></div>
-							<div class="sapo"><img src="images/pri-right.svg" class="img-fluid" alt="">Ứng dụng ViettelPost. Hạng mục "Business/Government"</div>
-							<div class="desc">
+							<div class="title  wow fadeInUp wHighlight" data-wow-delay=".25s"><h2>Giải thưởng</h2></div>
+							<div class="sapo  wow fadeInUp wHighlight" data-wow-delay=".25s"><img src="images/pri-right.svg" class="img-fluid" alt="">Ứng dụng ViettelPost. Hạng mục "Business/Government"</div>
+							<div class="desc  wow fadeInUp wHighlight" data-wow-delay=".25s">
 								<p>ViettelPay. Hạng mục “Financial Services”</p>
 								<p>Sản phẩm Viettel 360. Hạng mục "Innovation in Life, Learning and Work place"</p>
 								<p>Sản phẩm ViettelPay. Hạng mục "Most Innovative Mobile Payment Service"</p>
@@ -159,8 +159,8 @@
 	</section>
 	<section class="box-responsibility pt-100 pb-60">
 		<div class="container">
-			<div class="title"><h2>Trách nhiệm xã hội</h2></div>
-			<div class="slide-respon"> 
+			<div class="title  wow fadeInUp wHighlight" data-wow-delay=".25s"><h2>Trách nhiệm xã hội</h2></div>
+			<div class="slide-respon wow fadeInUp wHighlight" data-wow-delay=".25s"> 
 				<div class="item-slide">
 					<div class="item-respon">
 						<div class="avarta"><a href=""><img src="images/res-2.jpg" class="img-fluid w-100" alt=""></a></div>
@@ -238,19 +238,19 @@
 	</section>
 	<section class="box-new-home pt-40 pb-100">
 		<div class="container">
-			<div class="title text-center"><h2>Tin tức thị trường</h2></div>
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".25s"><h2>Tin tức thị trường</h2></div>
 			<div class="list-new-home">
 				<div class="row">
-					<div class="col-md-6">
-						<div class="new-big">
-							<div class="avart"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></div>
+					<div class="col-md-6 col-sm-6">
+						<div class="new-big wow fadeInUp wHighlight" data-wow-delay=".25s">
+							<div class="avart"><a href="new-detail.php"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></a></div>
 							<div class="info-abs">
 								<div class="date text-center">
 									<div class="num-date">01</div>
 									<span>03.2021</span>
 								</div>
 								<div class="info">
-									<h1><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h1>
+									<h1><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h1>
 									<div class="desc">
 										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 									</div>
@@ -258,48 +258,48 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 col-sm-6">
 						<div class="list-new-small">
-							<div class="item-new-small">
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".25s">
 								<div class="avarta">
-									<img src="images/new-small-1.jpg" class="img-fluid w-100" alt="">
+									<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 									<div class="date text-center">
 										<div class="num-date">01</div>
 										<span>03.2021</span>
 									</div>
 								</div>
 								<div class="info">
-									<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 									<div class="desc">
 										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 									</div>
 								</div>
 							</div>
-							<div class="item-new-small">
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".35s">
 								<div class="avarta">
-									<img src="images/new-small-1.jpg" class="img-fluid w-100" alt="">
+									<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 									<div class="date text-center">
 										<div class="num-date">01</div>
 										<span>03.2021</span>
 									</div>
 								</div>
 								<div class="info">
-									<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 									<div class="desc">
 										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 									</div>
 								</div>
 							</div>
-							<div class="item-new-small">
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".45s">
 								<div class="avarta">
-									<img src="images/new-small-1.jpg" class="img-fluid w-100" alt="">
+									<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 									<div class="date text-center">
 										<div class="num-date">01</div>
 										<span>03.2021</span>
 									</div>
 								</div>
 								<div class="info">
-									<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 									<div class="desc">
 										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 									</div>
@@ -316,16 +316,16 @@
 			<div class="title"><h2>Thư viện</h2></div>
 			<div class="list-gall">
 				<div class="row">
-					<div class="col-md-3">
-						<div class="item-gall"><a href=""><img src="images/gall-1.jpg" class="img-fluid w-100" alt=""></a></div>
-						<div class="item-gall"><a href=""><img src="images/gall-2.jpg" class="img-fluid w-100" alt=""></a></div>
+					<div class="col-md-3 col-sm-3">
+						<div class="item-gall wow zoomIn wHighlight" data-wow-delay=".25s"><a href="images/gall-1.jpg" data-fancybox="images"><img src="images/gall-1.jpg" class="img-fluid w-100" alt=""></a></div>
+						<div class="item-gall wow zoomIn wHighlight" data-wow-delay=".25s"><a href="images/gall-2.jpg" data-fancybox="images"><img src="images/gall-2.jpg" class="img-fluid w-100" alt=""></a></div>
 					</div>
-					<div class="col-md-6">
-						<div class="item-gall"><a href=""><img src="images/gall-3.jpg" class="img-fluid w-100" alt=""></a></div>
+					<div class="col-md-6 col-sm-6">
+						<div class="item-gall wow zoomIn wHighlight" data-wow-delay=".25s"><a href="images/gall-3.jpg" data-fancybox="images"><img src="images/gall-3.jpg" class="img-fluid w-100" alt=""></a></div>
 					</div>
-					<div class="col-md-3">
-						<div class="item-gall"><a href=""><img src="images/gall-4.jpg" class="img-fluid w-100" alt=""></a></div>
-						<div class="item-gall"><a href=""><img src="images/gall-5.jpg" class="img-fluid w-100" alt=""></a></div>
+					<div class="col-md-3 col-sm-3">
+						<div class="item-gall wow zoomIn wHighlight" data-wow-delay=".25s"><a href="images/gall-4.jpg" data-fancybox="images"><img src="images/gall-4.jpg" class="img-fluid w-100" alt=""></a></div>
+						<div class="item-gall wow zoomIn wHighlight" data-wow-delay=".25s"><a href="images/gall-5.jpg" data-fancybox="images"><img src="images/gall-5.jpg" class="img-fluid w-100" alt=""></a></div>
 					</div>
 				</div>
 			</div> 

@@ -15,7 +15,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="news pt-100 pb-100">
+	<section class="news pt-100">
 		<div class="container">
 			<div class="title text-center"><h2>Tin tức</h2></div>
 			<ul class="tabs">
@@ -26,16 +26,16 @@
 				<div id="tab-1" class="tab-content active">
 					<div class="list-new-home">
 						<div class="row">
-							<div class="col-md-6">
-								<div class="new-big">
-									<div class="avart"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></div>
+							<div class="col-md-6 col-sm-6">
+								<div class="new-big wow fadeInUp wHighlight" data-wow-delay=".25s">
+									<div class="avart"><a href="new-detail.php"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></a></div>
 									<div class="info-abs">
 										<div class="date text-center">
 											<div class="num-date">01</div>
 											<span>03.2021</span>
 										</div>
 										<div class="info">
-											<h1><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h1>
+											<h1><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h1>
 											<div class="desc">
 												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 											</div>
@@ -43,48 +43,48 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 col-sm-6">
 								<div class="list-new-small">
-									<div class="item-new-small">
+									<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".25s">
 										<div class="avarta">
-											<img src="images/new-small-1.jpg" class="img-fluid w-100" alt="">
+											<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 											<div class="date text-center">
 												<div class="num-date">01</div>
 												<span>03.2021</span>
 											</div>
 										</div>
 										<div class="info">
-											<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+											<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 											<div class="desc">
 												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 											</div>
 										</div>
 									</div>
-									<div class="item-new-small">
+									<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".35s">
 										<div class="avarta">
-											<img src="images/new-small-2.jpg" class="img-fluid w-100" alt="">
+											<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 											<div class="date text-center">
 												<div class="num-date">01</div>
 												<span>03.2021</span>
 											</div>
 										</div>
 										<div class="info">
-											<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+											<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 											<div class="desc">
 												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 											</div>
 										</div>
 									</div>
-									<div class="item-new-small">
+									<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".45s">
 										<div class="avarta">
-											<img src="images/new-small-3.jpg" class="img-fluid w-100" alt="">
+											<a href="new-detail.php"><img src="images/new-small-1.jpg" class="img-fluid w-100" alt=""></a>
 											<div class="date text-center">
 												<div class="num-date">01</div>
 												<span>03.2021</span>
 											</div>
 										</div>
 										<div class="info">
-											<h3><a href="">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+											<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
 											<div class="desc">
 												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 											</div>
@@ -97,75 +97,75 @@
 				</div>
 				<div id="tab-2" class="tab-content">
 					<div class="list-new-home">
-						<div class="row">
-							<div class="col-md-6">
-								<div class="new-big">
-									<div class="avart"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></div>
-									<div class="info-abs">
-										<div class="date text-center">
-											<div class="num-date">01</div>
-											<span>03.2021</span>
-										</div>
-										<div class="info">
-											<h1><a href="">Viettel Global thắng thầu dự án đầu tư mạng viễn thông tại  Mozambique.</a></h1>
-											<div class="desc">
-												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
-											</div>
-										</div>
-									</div>
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<div class="new-big wow fadeInUp wHighlight" data-wow-delay=".25s">
+							<div class="avart"><a href="new-detail.php"><img src="images/new-big.jpg" class="img-fluid w-100" alt=""></a></div>
+							<div class="info-abs">
+								<div class="date text-center">
+									<div class="num-date">01</div>
+									<span>03.2021</span>
 								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="list-new-small">
-									<div class="item-new-small">
-										<div class="avarta">
-											<img src="images/new-small-2.jpg" class="img-fluid w-100" alt="">
-											<div class="date text-center">
-												<div class="num-date">01</div>
-												<span>03.2021</span>
-											</div>
-										</div>
-										<div class="info">
-											<h3><a href="">Viettel Global thắng thầu dự án đầu tư mạng viễn thông tại  Mozambique.</a></h3>
-											<div class="desc">
-												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
-											</div>
-										</div>
-									</div>
-									<div class="item-new-small">
-										<div class="avarta">
-											<img src="images/new-small-3.jpg" class="img-fluid w-100" alt="">
-											<div class="date text-center">
-												<div class="num-date">01</div>
-												<span>03.2021</span>
-											</div>
-										</div>
-										<div class="info">
-											<h3><a href="">Viettel Global thắng thầu dự án đầu tư mạng viễn thông tại  Mozambique.</a></h3>
-											<div class="desc">
-												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
-											</div>
-										</div>
-									</div>
-									<div class="item-new-small">
-										<div class="avarta">
-											<img src="images/new-small-1.jpg" class="img-fluid w-100" alt="">
-											<div class="date text-center">
-												<div class="num-date">01</div>
-												<span>03.2021</span>
-											</div>
-										</div>
-										<div class="info">
-											<h3><a href="">Tổng công ty Cổ phần Đầu tư quốc tế Viettel</a></h3>
-											<div class="desc">
-												Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
-											</div>
-										</div>
+								<div class="info">
+									<h1><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h1>
+									<div class="desc">
+										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="list-new-small">
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".25s">
+								<div class="avarta">
+									<a href="new-detail.php"><img src="images/new-small-2.jpg" class="img-fluid w-100" alt=""></a>
+									<div class="date text-center">
+										<div class="num-date">01</div>
+										<span>03.2021</span>
+									</div>
+								</div>
+								<div class="info">
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<div class="desc">
+										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
+									</div>
+								</div>
+							</div>
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".35s">
+								<div class="avarta">
+									<a href="new-detail.php"><img src="images/new-small-2.jpg" class="img-fluid w-100" alt=""></a>
+									<div class="date text-center">
+										<div class="num-date">01</div>
+										<span>03.2021</span>
+									</div>
+								</div>
+								<div class="info">
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<div class="desc">
+										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
+									</div>
+								</div>
+							</div>
+							<div class="item-new-small wow fadeInUp wHighlight" data-wow-delay=".45s">
+								<div class="avarta">
+									<a href="new-detail.php"><img src="images/new-small-2.jpg" class="img-fluid w-100" alt=""></a>
+									<div class="date text-center">
+										<div class="num-date">01</div>
+										<span>03.2021</span>
+									</div>
+								</div>
+								<div class="info">
+									<h3><a href="new-detail.php">Thông báo mời thầu “Thiết bị Công nghệ thông tin cho thị trường Campuchia”</a></h3>
+									<div class="desc">
+										Tổng Công ty CP Đầu tư Quốc tế Viettel thông báo mời tham gia gói thầu cung cấp “Thiết bị Công nghệ thông tin cho thị trường Campuchia”
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 				</div>
 			</div> 
 			<div class="pagination w-100 pt-80">

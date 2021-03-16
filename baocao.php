@@ -15,7 +15,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="cate-invest pt-100 pb-100">
+	<section class="cate-invest pt-100">
 		<div class="container">
 			<div class="title"><h2>Báo cáo tài chính</h2></div>
 			<div class="list-document">

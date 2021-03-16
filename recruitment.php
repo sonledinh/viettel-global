@@ -23,14 +23,14 @@
 			</div>
 			<div class="list-recruit pt-50">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-1.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-1.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -39,18 +39,18 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-2.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-2.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -59,18 +59,18 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-3.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-3.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -79,18 +79,18 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-4.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-4.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -99,18 +99,18 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-5.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-5.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -119,18 +119,18 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-sm-4">
 						<div class="item-cruit">
 							<div class="avarta">
-								<a href=""><img src="images/recruit/recruit-6.jpg" class="img-fluid w-100" alt=""></a>
+								<a href="recruit-detail.php"><img src="images/recruit/recruit-6.jpg" class="img-fluid w-100" alt=""></a>
 								<span>Số lượng: 01</span>
 							</div>
 							<div class="info">
-								<h3><a href="">Paid Media Executive</a></h3>
+								<h3><a href="recruit-detail.php">Paid Media Executive</a></h3>
 								<label>Full Time</label>
 								<div class="place-date">
 									<p><img src="images/place.svg" class="img-fluid" alt="">Hanoi; Ho Chi Minh</p>
@@ -139,7 +139,7 @@
 								<div class="desc">
 									Flexible - depending on level of experience
 								</div>
-								<div class="btn-recruit text-center"><a href="">Ứng tuyển</a></div>
+								<div class="btn-recruit text-center"><a href="recruit-detail.php">Ứng tuyển</a></div>
 							</div>
 						</div>
 					</div>

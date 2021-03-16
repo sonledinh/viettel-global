@@ -15,7 +15,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="content-detail pt-100 pb-100">
+	<section class="content-detail pt-100">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
