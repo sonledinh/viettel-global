@@ -127,8 +127,8 @@ if($(window).innerWidth() >= 1024){
 
 var dropdowns = $(".dropdown");
 dropdowns.find("dt").click(function(){
-  dropdowns.find("dd ul").hide();
-  $(this).next().children().toggle();
+  dropdowns.find(".u-trans").removeClass('active');
+  $(this).next().children().addClass('active');
 });
 dropdowns.find("dd ul li a").click(function(){
   var leSpan = $(this).parents(".dropdown").find("dt a span"); 
@@ -144,10 +144,10 @@ dropdowns.find("dd ul li a").click(function(){
     leSpan.addClass('selected');
     $(this).addClass('selected');
   }
-  $(this).parents("ul").hide();
+  $(this).parents(".u-trans").removeClass('active');
 });
 $(document).bind('click', function(e){
-  if (! $(e.target).parents().hasClass("dropdown")) $(".dropdown dd ul").hide();
+  if (! $(e.target).parents().hasClass("dropdown")) $(".dropdown dd ul.u-trans").removeClass('active');
 });
  
 jQuery(document).ready(function( $ ) {

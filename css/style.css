@@ -429,6 +429,26 @@ body img {
   list-style: none;
 }
 
+.u-trans {
+  opacity: 0;
+  z-index: -1;
+  visibility: hidden;
+  transition: 0.4s all;
+  top: 50px;
+  left: 15px;
+}
+.u-trans.active {
+  transition: 0.4s all;
+  opacity: 1;
+  z-index: 10;
+  visibility: visible;
+  top: 38px;
+  left: 0;
+}
+
+.header-menu .logo img {
+  max-height: 50px;
+}
 .header-menu .row {
   align-items: flex-end;
 }

@@ -58,7 +58,28 @@
 		}
 	}
 }
+.u-trans {
+	opacity: 0;
+	z-index: -1;
+	visibility: hidden;
+	transition: .4s all;
+	top: 50px;
+    left: 15px;
+	&.active {
+		transition: .4s all;
+		opacity: 1;
+		z-index: 10;
+		visibility: visible;
+		top: 38px;
+		left: 0;
+	}
+}
 .header-menu {
+	.logo {
+		img {
+			max-height: 50px;
+		}
+	}
 	.row {
 		align-items: flex-end;
 	}

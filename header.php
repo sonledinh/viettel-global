@@ -29,7 +29,7 @@
                             <dl class="dropdown sans">
                                 <dt><a class="res-trans"><span class="selected"><img src="images/trans1.png" alt=""><span class="result-trans">VN</span></span></a></dt>
                                 <dd>
-                                    <ul style="display: none;">
+                                    <ul class="u-trans">
                                         <li><a class="trans-vn"><img src="images/trans1.png" alt=""><span class="result-trans">VN</span></a></li>  
                                         <li><a class="trans-en"><span class="result-trans">EN</span><img src="images/trans2.png" alt=""></a></li>
                                     </ul>
@@ -92,7 +92,7 @@
                                     <dl class="dropdown sans">
                                         <dt><a class="res-trans"><span class="selected"><img src="images/trans1.png" alt=""><span class="result-trans">VN</span></span></a></dt>
                                         <dd>
-                                            <ul style="display: none;">
+                                            <ul class="u-trans">
                                                 <li><a class="trans-vn"><img src="images/trans1.png" alt=""><span class="result-trans">VN</span></a></li>  
                                                 <li><a class="trans-en"><span class="result-trans">EN</span><img src="images/trans2.png" alt=""></a></li>
                                             </ul>
